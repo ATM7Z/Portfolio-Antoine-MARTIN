@@ -1,0 +1,51 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_2)">
+<rect width="1280" height="720" fill="#D6D6D6"/>
+<circle cx="640" cy="416" r="1000" fill="#D8D8D8"/>
+<circle cx="640" cy="416" r="999.5" stroke="black" stroke-opacity="0.1"/>
+<circle cx="640" cy="416" r="950" fill="#DADADA"/>
+<circle cx="640" cy="416" r="949.5" stroke="black" stroke-opacity="0.1"/>
+<circle cx="640" cy="416" r="900" fill="#DCDCDC"/>
+<circle cx="640" cy="416" r="899.5" stroke="black" stroke-opacity="0.1"/>
+<circle cx="640" cy="416" r="850" fill="#DEDEDE"/>
+<circle cx="640" cy="416" r="849.5" stroke="black" stroke-opacity="0.1"/>
+<circle cx="640" cy="416" r="800" fill="#E0E0E0"/>
+<circle cx="640" cy="416" r="799.5" stroke="black" stroke-opacity="0.1"/>
+<circle cx="640" cy="416" r="750" fill="#E2E2E2"/>
+<circle cx="640" cy="416" r="749.5" stroke="black" stroke-opacity="0.1"/>
+<circle cx="640" cy="416" r="700" fill="#E4E4E4"/>
+<circle cx="640" cy="416" r="699.5" stroke="black" stroke-opacity="0.1"/>
+<circle cx="640" cy="416" r="650" fill="#E6E6E6"/>
+<circle cx="640" cy="416" r="649.5" stroke="black" stroke-opacity="0.1"/>
+<circle cx="640" cy="416" r="600" fill="#E8E8E8"/>
+<circle cx="640" cy="416" r="599.5" stroke="black" stroke-opacity="0.1"/>
+<circle cx="640" cy="416" r="550" fill="#EAEAEA"/>
+<circle cx="640" cy="416" r="549.5" stroke="black" stroke-opacity="0.1"/>
+<circle cx="640" cy="416" r="500" fill="#ECECEC"/>
+<circle cx="640" cy="416" r="499.5" stroke="black" stroke-opacity="0.1"/>
+<circle cx="640" cy="416" r="450" fill="#EEEEEE"/>
+<circle cx="640" cy="416" r="449.5" stroke="black" stroke-opacity="0.1"/>
+<circle cx="640" cy="416" r="400" fill="#F0F0F0"/>
+<circle cx="640" cy="416" r="399.5" stroke="black" stroke-opacity="0.1"/>
+<circle cx="640" cy="416" r="350" fill="#F2F2F2"/>
+<circle cx="640" cy="416" r="349.5" stroke="black" stroke-opacity="0.1"/>
+<path d="M940 416C940 581.685 805.685 716 640 716C474.315 716 340 581.685 340 416C340 250.315 474.315 116 640 116C805.685 116 940 250.315 940 416Z" fill="#F4F4F4"/>
+<path d="M939.5 416C939.5 581.409 805.409 715.5 640 715.5C474.591 715.5 340.5 581.409 340.5 416C340.5 250.591 474.591 116.5 640 116.5C805.409 116.5 939.5 250.591 939.5 416Z" stroke="black" stroke-opacity="0.1"/>
+<circle cx="640" cy="416" r="250" fill="#F6F6F6"/>
+<circle cx="640" cy="416" r="249.5" stroke="black" stroke-opacity="0.1"/>
+<circle cx="640" cy="416" r="200" fill="#F8F8F8"/>
+<circle cx="640" cy="416" r="199.5" stroke="black" stroke-opacity="0.1"/>
+<circle cx="640" cy="416" r="150" fill="#FAFAFA"/>
+<circle cx="640" cy="416" r="149.5" stroke="black" stroke-opacity="0.1"/>
+<circle cx="100" cy="100" r="100" transform="matrix(1 0 0 -1 540 516)" fill="#FCFCFC"/>
+<circle cx="100" cy="100" r="99.5" transform="matrix(1 0 0 -1 540 516)" stroke="black" stroke-opacity="0.1"/>
+<circle cx="640" cy="416" r="50" fill="white"/>
+<circle cx="640" cy="416" r="49.5" stroke="black" stroke-opacity="0.1"/>
+<circle cx="639.5" cy="415.5" r="7.5" fill="#1E1E1E"/>
+</g>
+<defs>
+<clipPath id="clip0_1_2">
+<rect width="1280" height="720" fill="white"/>
+</clipPath>
+</defs>
+</svg>
